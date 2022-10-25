@@ -1,6 +1,5 @@
 const express = require('express');
 const Twit = require('twit');
-const dotenv = require('dotenv').config();
 
 const app = express();
 
