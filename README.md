@@ -51,7 +51,6 @@ Para inicializar en modo *test* (la app se reiniciará cada vez que se haga un c
 
 ```
 npm test
-
 ````
 > 💡 Nota: para ello es necesario instalar previamente `npm nodemon -g`.
 
@@ -111,7 +110,6 @@ To initialize in *test* mode (the app will restart every time a change is made i
 
 ```
 npm test
-
 ````
 > 💡 Note: it is necessary to install `npm nodemon -g` first.
 
